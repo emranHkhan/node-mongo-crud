@@ -1,0 +1,1 @@
+1. If you want to POST data using form then you have to use this: app.use(express.urlencoded({ extended: false }))
